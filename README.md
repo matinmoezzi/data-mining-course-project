@@ -1,2 +1,13 @@
-# data-mining-course-project
-Data Mining Course Project
+# Data Mining Course Project
+## Implementing Data Mining & Machine Learning Algorithms using Scikit-learn
+- Data Preprocessing
+  * Handling Missing Data
+  * Handling Categorical Data
+  * Feature Scaling
+  * Detecting and Filtering Outliers
+- Linear Regression
+- Polynomial Regression
+- K-fold Cross Validation
+- K Nearest Neighbour
+- Confusion Matrix
+- ROC Curve
