@@ -9,5 +9,6 @@
 - Polynomial Regression
 - K-fold Cross Validation
 - K Nearest Neighbour
+- Hyperparameter Tuning
 - Confusion Matrix
-- ROC Curve
+- ROC Curve & AUC
